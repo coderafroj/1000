@@ -1,4 +1,5 @@
 # 🚀 1000 Days Software Engineer Challenge
+## npm install -D tailwindcss@3.3.5 postcss autoprefixer
 
 ### 👨‍💻 By [CoderAfroj](https://github.com/coderafroj)
 
