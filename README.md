@@ -45,4 +45,8 @@
 ## 🗓️ Daily Progress Journal
 
 📘 *Every day counts.*  
-✅ Log daily learnings, challenges, and achievements here:
+✅ Day -1  first app create  
+✅ Day-2   counter propject  
+✅ Day -3   custom react
+✅ Day-4   fiber documentation
+✅ Day-5    props
