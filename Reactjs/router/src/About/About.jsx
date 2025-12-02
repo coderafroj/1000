@@ -6,7 +6,7 @@ export default function About(){
         <div className="w-56"><img className="rounded-2xl" src="https:images.pexels.com/photos/33402174/pexels-photo-33402174.jpeg"/></div>
       </div> 
       <div className="md:w-1/2 w-full  capitalize">
-        <h2 className="mb-4 uppercase font-semibold">Inaya</h2>
+        <h2 className="mb-4 uppercase font-semibold">CODERAFROJ</h2>
         <p className="text-gray-500">hello my name is coderafroj i am from india,my hobby innu and much more</p></div>
      </div>
    </div> 
