@@ -51,3 +51,6 @@ https://murf.ai/share/mgt3q5ig
 ✅ Day -3   custom react
 ✅ Day-4   fiber documentation
 ✅ Day-5    props
+
+#start 2 dec
+day 1
