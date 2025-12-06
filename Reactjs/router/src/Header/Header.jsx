@@ -1,7 +1,7 @@
 import {NavLink,Link} from "react-router-dom"
 export default function Header(){
   return(
-    <div className="bg-black  shadow-2xl w-full fixed top-0 left-0 p-2 ">
+    <div className="bg-black  shadow-2xl w-full fixed top-0 left-0 p-2 z-1000">
       <div className="flex justify-between items-center  ">
         <div className="w-full flex flex-grow-1">
         <div className="text-white font-extralight font-mono">
